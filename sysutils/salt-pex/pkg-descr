@@ -1,0 +1,15 @@
+Salt-pex : Salt tool the form of a single binary
+======================================
+
+Salt is a great tool to configure the system. Unfortunately, python's
+package manage can make dealing with system versions of python and
+its dependencies somewhat fragile. Salt-pex aims to help stablize
+salt using the Python EXecutable (pex) files.
+
+https://github.com/pantsbuild/pex
+
+Salt is a powerful remote execution and state manager that can be
+used to administer servers in a fast and efficient way.
+
+WWW: https://pypi.org/project/salt/
+WWW: http://saltstack.org/
