@@ -1,5 +1,5 @@
 PORTNAME=	vm-bhyve
-PORTVERSION=	1.5.0.p1
+PORTVERSION=	1.5.0
 CATEGORIES=	sysutils
 
 MAINTAINER=	churchers@gmail.com
@@ -12,7 +12,7 @@ RUN_DEPENDS=	${LOCALBASE}/share/certs/ca-root-nss.crt:security/ca_root_nss
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	churchers
-GH_TAGNAME=     5c8674939ebb75dc8a0e7e4b4c34d877a1c51faf
+GH_TAGNAME=     v1.5.0
 
 NO_ARCH=	yes
 NO_BUILD=	yes
